@@ -28,16 +28,17 @@ To suit your preferred mode of learning, the content is now available via severa
 * **YouTube**
     * Linear Algebra [complete playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) and [detailed blog post here](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube)
     * Calculus [complete playlist here](https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx)
-    * [Probability playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge) is in active development
-    * By continuing to release a new video every Wednesday, all of the subjects of my ML Foundations curriculum will eventually be freely available on YouTube.
-* **O'Reilly**
+    * [Probability playlist](https://www.youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge) is in active development (sign up for my email newsletter at [jonkrohn.com](https://www.jonkrohn.com/) to be notified of new video releases)
+    * In time, all of the subjects of my ML Foundations curriculum will be freely available on YouTube.
+* **O'Reilly** (many employers and educational institutions provide free access to this platform; if you don't have access, you can get a 30-day free trial [via my special SDSPOD23 code](https://learning.oreilly.com/get-learning/?code=SDSPOD23))
     * [Linear Algebra videos](https://learning.oreilly.com/videos/linear-algebra-for/9780137398119/) published in Dec 2020 ([free hour-long lesson](https://www.youtube.com/watch?v=uG_wjmuigGg))
     * [Calculus videos](https://learning.oreilly.com/videos/calculus-for-machine/9780137398171/) published in Jan 2021 ([free hour-long lesson](https://youtu.be/ZDAX17OGMAM))
     * [Probability and Stats videos](https://learning.oreilly.com/videos/probability-and-statistics/9780137566273/) published in May 2021 ([free hour-long lesson](https://youtu.be/uJcGj-k50iE))
     * [Computer Science videos](https://learning.oreilly.com/videos/data-structures-algorithms/9780137644889/) published in Jun 2021 ([free hour-long lesson](https://youtu.be/yfKkMdndY-E))
+    * (For convenience, this publisher compiled all 28 hours of the above four video series into a single playlist [here](https://learning.oreilly.com/videos/-/9780137903245/).)
 * **Udemy**: All the Linear Algebra and Calculus content has been [live in a *Mathematical Foundations of ML* course](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/) since Sep 2021 (free overview video [here](https://youtu.be/qhLo19EIA4g)). While this course stands alone as a complete introduction to the math subjects, Subjects 5-8 will eventually be added as free bonus material. 
 * **Open Data Science Conference**: The entire series was taught live online from Dec 2020 to Jun 2021. On-demand recordings of all these trainings are now available in the [Ai+ Platform](https://aiplus.odsc.com/pages/mlbootcamp).
-* **Book**: Chapter drafts to begin appearing in 2022
+* **Book**: A book deal with Pearson is in place; eventually I'll have bandwidth to work on the manuscript and pre-release chapter drafts will be available via oreilly.com.
 
 *(Note that while YouTube contains 100% of the taught content, the paid options — e.g., Udemy, O'Reilly, and ODSC — contain comprehensive solution walk-throughs for exercises that are not available on YouTube. Some of the paid options also include exclusive, platform-specific features such as interactive testing, "cheat sheets" and the awarding of a certificate for successful course completion.)*
 
@@ -82,10 +83,11 @@ As with other materials created by Jon Krohn (such as the book *[Deep Learning I
 * Vivid full-color illustrations 
 * Paper-and-pencil comprehension exercises with fully-worked solutions
 * Hundreds of straightforward examples of Python code within hands-on Jupyter notebooks (with a particular focus on the PyTorch and TensorFlow libraries)
+* Practical ML applications
 * Resources for digging even deeper into topics that pique your curiosity
 
 
-### Prerequisities
+### Prerequisites
 
 **Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples. A good (and free!) resource for getting started with Python is Al Sweigart's [Automate the Boring Stuff](https://automatetheboringstuff.com/).
 
